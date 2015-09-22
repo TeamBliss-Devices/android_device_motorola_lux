@@ -1,3 +1,5 @@
+ro.product.device=lux
+ro.product.model=lux
 # ActivityManager optimizations
 ro.config.max_starting_bg=8
 ro.sys.fw.bservice_enable=true
